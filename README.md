@@ -1,5 +1,5 @@
 # Etch-A-Sketch
-# <img src="image.png" alt="alt text" width="100"/> Etch-A-Sketch page
+# <img src="etch-a-sketch.png" alt="alt text" width="100"/> Etch-A-Sketch page
 
 A browser version of Etch-A-Sketch
 
@@ -11,4 +11,3 @@ Resource | Source
 Icons |[Freepik](https://www.flaticon.com/authors/freepik)
 
 
-etch-a-sketch.png
